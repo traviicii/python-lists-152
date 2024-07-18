@@ -1,8 +1,6 @@
 # Lecture Notes: Python Lists
 
 ### Materials for reference:
-- Dylan's GitHub  repo: [Python-Lists-146](https://github.com/dkatina/Python-Lists-146 "Nice examples and class flow")
-    - Nice examples and class flow/structure
 - [Dylan's Lecture Notes](https://docs.google.com/document/d/1PwZ6Zdf4iHPYCmGeHMQlBo1EVnMXkitE4VamNf8wRl4/edit)
 
 ## Intro to Lists
